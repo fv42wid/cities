@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Cities\Cities\bin\Debug\netcoreapp1.1\Cities.deps.json
+C:\Users\Administrator\Desktop\Cities\Cities\bin\Debug\netcoreapp1.1\Cities.runtimeconfig.json
+C:\Users\Administrator\Desktop\Cities\Cities\bin\Debug\netcoreapp1.1\Cities.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Cities\Cities\bin\Debug\netcoreapp1.1\Cities.dll
+C:\Users\Administrator\Desktop\Cities\Cities\bin\Debug\netcoreapp1.1\Cities.pdb
+C:\Users\Administrator\Desktop\Cities\Cities\obj\Debug\netcoreapp1.1\Cities.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Cities\Cities\obj\Debug\netcoreapp1.1\Cities.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Cities\Cities\obj\Debug\netcoreapp1.1\Cities.dll
+C:\Users\Administrator\Desktop\Cities\Cities\obj\Debug\netcoreapp1.1\Cities.pdb

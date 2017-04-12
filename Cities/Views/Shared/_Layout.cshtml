@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Cities</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body class="panel-body">
+    <!--<environment names="development">
+        <div class="panel-body bg-info">
+            <h2>This is Development</h2>
+        </div>
+    </environment>
+    <environment names="production">
+        <div class="panel-body bg-danger">
+            <h2>This is Production</h2>
+        </div>
+    </environment>-->
+    <cache expires-after="@TimeSpan.FromSeconds(15)">
+        @await Component.InvokeAsync("Time")
+    </cache>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>
